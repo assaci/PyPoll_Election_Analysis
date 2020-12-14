@@ -1,2 +1,5 @@
 # PyPoll_Election_Analysis
-PyPoll Analysis With Python 
+
+## Overview
+
+### Automate audit process of Colorado Board of Election to report election results using Python. 
