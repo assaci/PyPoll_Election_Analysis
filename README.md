@@ -27,4 +27,4 @@
      
  ## Election-Audit Summary 
  
-In our analysis, we only considered data set for casted votes. The analysis did not including date from missing or invalid ballots.In order to increase transparency and data integrity, data set use for audit should include number of register voters , missing and invalid ballots.
+In our analysis, we only considered data set for casted votes. The analysis did not include date for missing or invalid ballots.In order to increase transparency and data integrity, data set use for audit should also include number of register voters , missing and invalid ballots.
